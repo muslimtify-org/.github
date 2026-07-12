@@ -28,40 +28,13 @@ We believe worship software should respect the worshipper. Everything we build i
 
 Our goal is not a single app, but a trustworthy, reusable foundation that any Muslim developer can build on.
 
-## Our projects
-
-| Project | Description |
-| --- | --- |
-| [**muslimtify**](https://github.com/rizukirr/muslimtify) | The main application. A lightweight prayer-times daemon and CLI with desktop notifications for Linux and Windows. |
-| [**libmuslim**](https://github.com/rizukirr/libmuslim) | The portable C library powering our prayer-time calculations, extracted so other developers can build their own tools on top of it. |
-
-## Roadmap
-
-We are actively working toward:
-
-- **Automatic location from devic GPS** (Top Priority)
-- macOS support (if device available)
-- A graphical interface for users who prefer not to use the terminal
-- Wider distribution through Flatpak and more app stores
-- Support for wearables and embedded devices
-
 ## Get involved
 
 Muslimtify is community-driven, and contributions of every kind are welcome — code, documentation, translations, testing, and ideas.
 
-We are especially looking for **brothers and sisters with a Mac and experience in low-level C programming** to help bring Muslimtify to macOS.
-
 - Browse the [issues](https://github.com/rizukirr/muslimtify/issues) to find something to work on
 - Read our contributing guide before opening a pull request
 - Have a question or idea? Start a discussion
-
-## Support the project
-
-Muslimtify is free and always will be. If it benefits you, please consider supporting its development. Your contribution funds development hardware (including a Mac to enable macOS support), testing, and ongoing maintenance.
-
-- 🤝 [Open Collective](https://opencollective.com/muslimtify)
-
-Every contribution, large or small, helps keep Muslimtify open and accessible to the whole ummah.
 
 ---
 
