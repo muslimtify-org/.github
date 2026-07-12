@@ -39,11 +39,11 @@ Our goal is not a single app, but a trustworthy, reusable foundation that any Mu
 
 We are actively working toward:
 
-- 🍎 **macOS support** — our current top priority
-- 🖥️ A graphical interface for users who prefer not to use the terminal
-- 📦 Wider distribution through Flatpak and more app stores
-- 📍 Automatic location from device GPS
-- ⌚ Support for wearables and embedded devices
+- **Automatic location from devic GPS** (Top Priority)
+- macOS support (if device available)
+- A graphical interface for users who prefer not to use the terminal
+- Wider distribution through Flatpak and more app stores
+- Support for wearables and embedded devices
 
 ## Get involved
 
@@ -59,8 +59,6 @@ We are especially looking for **brothers and sisters with a Mac and experience i
 
 Muslimtify is free and always will be. If it benefits you, please consider supporting its development. Your contribution funds development hardware (including a Mac to enable macOS support), testing, and ongoing maintenance.
 
-- ❤️ [GitHub Sponsors](https://github.com/sponsors/rizukirr)
-- ☕ [Ko-fi](https://ko-fi.com/rizukirr)
 - 🤝 [Open Collective](https://opencollective.com/muslimtify)
 
 Every contribution, large or small, helps keep Muslimtify open and accessible to the whole ummah.
