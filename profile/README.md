@@ -26,7 +26,8 @@ We believe worship software should respect the worshipper. Everything we build i
 - **Free and open source** — MIT licensed, built in the open, forever free
 - **Global** — 21 international calculation methods, including Kemenag, JAKIM, Umm al-Qura, MWL, ISNA, Diyanet, and Egyptian General Authority
 
-Our goal is not a single app, but a trustworthy, reusable foundation that any Muslim developer can build on.
+Our goal is not a single app, but a trustworthy, reusable foundation that any Muslim developer can build on and our mission is to provide a strong digital ecosystem for Muslims, supporting their daily worship and faith-based activities in the digital world.
+
 
 ## Get involved
 
