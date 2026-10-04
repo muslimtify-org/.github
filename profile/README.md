@@ -11,7 +11,7 @@
 
 Accurate prayer times and timely reminders that run entirely on your own device. No account, no tracking, no internet required.
 
-[Download](https://muslimtify.vercel.app) - [Documentation](https://muslimtify.vercel.app/docs)
+[Download](https://muslimtify.org) - [Documentation](https://muslimtify.org/docs)
 
 </div>
 
